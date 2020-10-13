@@ -1,4 +1,4 @@
-const API_KEY = secrets.API_KEY;
+const API_KEY = '3d5017de-451e-47d2-aac6-39b497f60c92';
 const ENDPOINTS = {
   GET_CAT_URL: 'https://api.thecatapi.com/v1/images/search',
   VOTE_CAT_URL: 'https://api.thecatapi.com/v1/votes'
